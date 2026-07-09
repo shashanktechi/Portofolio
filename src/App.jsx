@@ -30,7 +30,7 @@ function App() {
           </div>
           
           <p className="text-textMuted text-sm text-center md:text-left">
-            \u00a9 {new Date().getFullYear()} Kisannagari Shashank. All rights reserved.
+            &copy; {new Date().getFullYear()} Kisannagari Shashank. All rights reserved.
           </p>
           
           <div className="flex gap-4">
