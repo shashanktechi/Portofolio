@@ -21,8 +21,8 @@ const skillCategories = [
 
 export default function Skills() {
   return (
-    <section id="skills" className="py-24 px-6 relative bg-surface/20">
-      <div className="w-full lg:px-12">
+    <section id="skills" className="py-24 px-4 sm:px-8 relative bg-surface/20">
+      <div className="w-full">
         <motion.h2 
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}

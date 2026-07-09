@@ -13,8 +13,8 @@ export default function Contact() {
   };
 
   return (
-    <section id="contact" className="py-24 px-6 relative">
-      <div className="w-full lg:px-12">
+    <section id="contact" className="py-24 px-4 sm:px-8 relative">
+      <div className="w-full">
         <motion.h2 
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
