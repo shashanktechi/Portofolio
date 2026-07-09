@@ -1,16 +1,62 @@
-# React + Vite
+# Kisannagari Shashank - Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A sleek, responsive, and highly interactive personal portfolio website built with modern web technologies. This repository showcases my projects, technical skills, and professional experience as a **Cloud & DevOps Enthusiast** and **Full-Stack Developer**.
 
-Currently, two official plugins are available:
+🌍 **Live Demo:** [shashank-resume.vercel.app](https://shashank-resume.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 🚀 Technologies Used
+This project was built from the ground up utilizing the following modern stack:
+- **Framework:** React + Vite
+- **Styling:** Tailwind CSS v4 (Custom dark/light mode themes, glassmorphism)
+- **Animations:** Framer Motion (Scroll animations, dynamic custom cursor)
+- **Icons:** Lucide React & React Icons
+- **Deployment:** Vercel (CI/CD connected to GitHub)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👤 About Me
+I am a final-year B.Tech CSE student at Madanapalle Institute of Technology & Science. 
+I have hands-on experience across three internships spanning **AWS/DevOps, Full-Stack Development, and Cybersecurity**. I am skilled at deploying cloud infrastructure, building CI/CD pipelines, and developing AI-integrated, responsive web applications.
 
-## Expanding the Oxlint configuration
+### Technical Arsenal
+- **Languages:** Java, Python, C, JavaScript
+- **Web:** React, HTML5, CSS3, Tailwind CSS
+- **Cloud & DevOps:** AWS (EC2, S3, IAM), Docker, GitHub Actions, CI/CD pipelines
+- **Tools:** Git, Linux (CLI), VS Code, SQL (MySQL)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+### Key Experiences
+- **AWS, DevOps & GitHub Intern @ APSSDC**: Deployed AWS resources, implemented CI/CD pipelines, and managed Docker containers.
+- **Full-Stack Development Intern @ Novitech Solutions**: Built responsive web apps, integrated front-end UI with back-end logic.
+- **Cybersecurity Intern @ Edutantar**: Learned ethical hacking, CIA Triad, and cryptography fundamentals.
+
+## 💻 Running the Project Locally
+
+To run this portfolio locally on your machine, follow these steps:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/shashanktechi/Portofolio.git
+   cd Portofolio
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Start the development server**
+   ```bash
+   npm run dev
+   ```
+   Open your browser and navigate to `http://localhost:5173`.
+
+## 📬 Contact
+I'm always open to discussing new projects or opportunities in Cloud, DevOps, or Software Engineering!
+
+- **Email:** [shashankdany8712@gmail.com](mailto:shashankdany8712@gmail.com)
+- **LinkedIn:** [linkedin.com/in/shashank-kisannagari](https://linkedin.com/in/shashank-kisannagari)
+- **GitHub:** [github.com/shashanktechi](https://github.com/shashanktechi)
+- **Phone:** 6305524083
+
+---
+*Designed & developed by Kisannagari Shashank \u00a9 2026*
