@@ -24,7 +24,7 @@ export default function Navbar() {
 
   return (
     <nav className={`fixed top-0 w-full z-40 transition-all duration-300 ${scrolled ? 'bg-surface/80 backdrop-blur-md shadow-lg py-4' : 'bg-transparent py-6'}`}>
-      <div className="max-w-7xl mx-auto px-6 flex justify-between items-center">
+      <div className="w-full px-8 lg:px-16 flex justify-between items-center">
         <a href="#" className="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-primary to-blue-400">SK</a>
         
         {/* Desktop Menu */}
